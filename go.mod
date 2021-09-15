@@ -1,3 +1,4 @@
+// +heroku goVersion go1.16
 module github.com/minio/minio
 
 go 1.16
