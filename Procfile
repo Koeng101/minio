@@ -1,0 +1,1 @@
+web: minio server $DATA
