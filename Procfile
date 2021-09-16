@@ -1,1 +1,1 @@
-web: minio run server $DATA
+web: minio server $DATA
